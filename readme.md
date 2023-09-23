@@ -6,19 +6,21 @@ LICENSE: [MIT](./license.md)
                                         
 ---
 
+### Описание :
+
+Git — это бесплатная распределенная система контроля версий с открытым исходным кодом, предназначенная для быстрой и эффективной обработки любых проектов, от небольших до очень крупных.
+
 ### Содержание:
 
-1. Git — это бесплатная распределенная система контроля версий с открытым исходным кодом, предназначенная для быстрой и эффективной обработки любых проектов, от небольших до очень крупных.
-
-2. [git add](./add.md)
-3. [git status](status.md)
-4. [git diff](diff.md)
-5. [git difftool](difftool.md)
-6. [git commit](commit.md)
-7. [git reset](reset.md)
-8. [git rm](rm.md)
-9. [git mv](mv.md)
-10. [git clean](clean.md)
+1. [git add](./add.md)
+2. [git status](status.md)
+3. [git diff](diff.md)
+4. [git difftool](difftool.md)
+5. [git commit](commit.md)
+6. [git reset](reset.md)
+7. [git rm](rm.md)
+8. [git mv](mv.md)
+9. [git clean](clean.md)
 
 
 ---
