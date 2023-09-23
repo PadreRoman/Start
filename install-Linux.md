@@ -1,1 +1,5 @@
-https://git-scm.com/download/win
+[< к содержанию](./readme.md)
+
+# Установка **Git** в Linux
+
+Для установки **GIT** перейдите [на страницу](https://git-scm.com/download/linux), скачайте подходящий дистрибутив и следуйте инструкциям.
