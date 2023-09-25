@@ -58,6 +58,12 @@ Git — это бесплатная распределенная система 
 [Правила синтаксиса файла .gitignore](./filesyntaxrules.md)
 
 
+## Ветвление:
+Это возможность работать над разными версиями проекта: вместо одного списка с упорядоченными коммитами история будет расходиться в определённых точках.
+
+[Основы ветвления и слияния.](./branching.md)
+[Команды.](./teams.md)
+
 ---
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
